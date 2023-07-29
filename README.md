@@ -1,14 +1,13 @@
 # Hi there 👋
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+<p align="center">
+<img width='50%' src="https://github.com/m07med176/m07med176/blob/master/photo.png" alt="Hello world">
+</p>
+<p align="center">First of aLL i am <strong>ITI@N</strong>💪🔥<br>
+  <img width='10%' src="https://github.com/m07med176/m07med176/blob/master/iti-logo.png" />
 </p>
 
 ## About me
-### First of ALL i AM ITIAN
 My Name is Mohamed Arfa I am Android developer using Java and Kotlin that specialize in creating applications for the Android operating system using these programming languages. 
 
 As an Android developer, I am responsible for designing, developing, and maintaining Android applications. I work closely with other developers, designers, and stakeholders to create applications that meet the needs of users and businesses. I am skilled in using Java and Kotlin to create high-quality code that is efficient, scalable, and maintainable.
