@@ -2,7 +2,7 @@
 
 <p align="center">
 <img width='50%' src="https://github.com/m07med176/m07med176/blob/master/photo.png" alt="Hello world">
-    <hr> First of aLL i am <strong>ITI@N</strong>💪🔥
+    <br> First of aLL i am <strong>ITI@N</strong>💪🔥
 </p>
 
 ## About me
