@@ -2,9 +2,7 @@
 
 <p align="center">
 <img width='50%' src="https://github.com/m07med176/m07med176/blob/master/photo.png" alt="Hello world">
-</p>
-<p align="center">First of aLL i am <strong>ITI@N</strong>💪🔥<br>
-  <img width='10%' src="https://github.com/m07med176/m07med176/blob/master/iti-logo.png" />
+    <hr> First of aLL i am <strong>ITI@N</strong>💪🔥
 </p>
 
 ## About me
