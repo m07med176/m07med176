@@ -17,6 +17,14 @@ I love :coffee:Java and Java is the most commonly used programming language for 
 
 also I have a good understanding of the Android SDK (Software Development Kit), Android Studio, and other development tools and  familiar with various Android components such as activities, services, and broadcast receivers, as well as APIs of network using retrofit, volley and ktor and data persistence using Room DB and Realm.
 
+🤓📚 I absolutely love learning new things!
+🌱🧠 Growing my knowledge and skills brings me so much joy!
+🚀🌟 I'm always seeking out new opportunities to learn and expand my horizons!
+🎓💡 I believe that education is key to personal growth and development!
+🌍✅ Learning is a never-ending adventure, and I'm so excited to be on this journey!
+👨‍💻🌱 I have more than 2 years of experience in developing android apps.
+🎯📱 I strive to build Android apps that can be easily maintained, scaled, and reused while maintaining code readability.
+📚📚 I love Reading so much especially programming books such as(Clean Code , Clean Archetiture , Headfirst Object Orianted and Anaysis , Kotlin Couroutine with tutorial , Headfirst Design Patterns and more ).
 
 ## Get in touch :coffee:
 
