@@ -23,11 +23,6 @@ also I have a good understanding of the Android SDK (Software Development Kit), 
 - 🎯📱 I strive to build Android apps that can be easily maintained, scaled, and reused while maintaining code readability.
 - 📚📚 I love Reading so much especially programming books such as(Clean Code , Clean Archetiture , Headfirst Object Orianted and Anaysis , Kotlin Couroutine with tutorial , Headfirst Design Patterns and more ).
 
-
-## Education
-- 9-Month Diploma, Mobile Applications Development, Information Technology Institute (ITI) Ismailia Branch    Oct 2022 - Jan 2023
-- Bachelor of Petroleum and Mining at Faculty of Science, Mansoura University    May 2014 - May 2018
-
 ## 👨‍💻 Programming Languages Skills :
 - Kotlin 🚀
 - Java ☕️
