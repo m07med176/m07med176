@@ -96,28 +96,28 @@ Here are some ideas to get you started:
 - [productApp-compose-multiplatform](https://github.com/m07med176/productApp-compose-multiplatform)
   
 ### JetbackCompose
-- [DoctorsAppointment JetbackCompose ](https://github.com/m07med176/DoctorsAppointment_Compose)
+- [DoctorsAppointment ](https://github.com/m07med176/DoctorsAppointment_Compose)
 
 ### Kotlin
 - [WeatherAppCleanArcheticture](https://github.com/m07med176/WeatherAppCleanArchitecture)
+- Weather-App-Technical-Task ](https://github.com/m07med176/Weather-App-Technical-Task)
 - [Marketly](https://github.com/m07med176/Marketly)
 - [NewsApp](https://github.com/m07med176/workShopSmartVilageAndroid)
-- [Weather-App-Technical-Task ](https://github.com/m07med176/Weather-App-Technical-Task)
-  
+
 ### Java
 - [TicTakToeJavaFX ](https://github.com/m07med176/TicTakToeJavaFX)
 - [FoodPlanner](https://github.com/m07med176/FoodPlanner)
 
 ### Swift
-- [SportAppUsingSwift](https://github.com/m07med176/SportAppUsingSwift)
+- [SportApp](https://github.com/m07med176/SportAppUsingSwift)
+
+### EGFWD Projects
+- [Location Reminder](https://github.com/m07med176/Location_Reminder)
+- [Canvas ](https://github.com/m07med176/Canvas_Udacity)
+- [Astroids](https://github.com/m07med176/Astroids)
+- [ShoesStor](https://github.com/m07med176/ShoesStorUdacity)
 
 ### Demos
 - [MVPKotlinDemo](https://github.com/m07med176/MVPKotlinDemo)
 - [WeatherAppDemo](https://github.com/m07med176/WeatherAppDemo)
 - [BuildAndroidUsingCMD](https://github.com/m07med176/BuildAndroidUsingCMD)
-
-### EGFWD Projects
-- [Location Reminder](https://github.com/m07med176/Location_Reminder)
-- [Canvas_Udacity](https://github.com/m07med176/Canvas_Udacity)
-- [Astroids](https://github.com/m07med176/Astroids)
-- [ShoesStorUdacity](https://github.com/m07med176/ShoesStorUdacity)
