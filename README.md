@@ -93,13 +93,13 @@ Here are some ideas to get you started:
 
 ## Projects :
 ### KMP
-- [productApp-compose-multiplatform](https://github.com/m07med176/productApp-compose-multiplatform)
+- [ProductApp](https://github.com/m07med176/productApp-compose-multiplatform)
   
 ### JetbackCompose
 - [DoctorsAppointment ](https://github.com/m07med176/DoctorsAppointment_Compose)
 
 ### Kotlin
-- [WeatherAppCleanArcheticture](https://github.com/m07med176/WeatherAppCleanArchitecture)
+- [WeatherApp](https://github.com/m07med176/WeatherAppCleanArchitecture)
 - [Weather-App-Technical-Task ](https://github.com/m07med176/Weather-App-Technical-Task)
 - [Marketly](https://github.com/m07med176/Marketly)
 - [NewsApp](https://github.com/m07med176/workShopSmartVilageAndroid)
