@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 
 ### Kotlin
 - [WeatherAppCleanArcheticture](https://github.com/m07med176/WeatherAppCleanArchitecture)
-- Weather-App-Technical-Task ](https://github.com/m07med176/Weather-App-Technical-Task)
+- [Weather-App-Technical-Task ](https://github.com/m07med176/Weather-App-Technical-Task)
 - [Marketly](https://github.com/m07med176/Marketly)
 - [NewsApp](https://github.com/m07med176/workShopSmartVilageAndroid)
 
